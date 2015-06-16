@@ -1,0 +1,15 @@
+Development Practices
+
+- SPA
+- Angular
+- Bootstrap
+- Git, Github, gh-pages
+- Templated & Modular
+- Cloud 9
+
+Website Content & Features
+
+- Map
+- Contact
+- WP?
+- Schedule an appointment
